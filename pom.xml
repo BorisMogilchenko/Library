@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>ru.quazar.Library</groupId>
-    <artifactId>library</artifactId>
+    <groupId>ru.quazar</groupId>
+    <artifactId>Library</artifactId>
     <version>1.0.0</version>
-    <name>library</name>
+    <name>Library</name>
     <description>Library project for Spring Boot</description>
 
     <properties>
